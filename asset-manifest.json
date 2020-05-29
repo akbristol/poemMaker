@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/poemMaker/static/css/main.bd0f7cd0.chunk.css",
+    "main.js": "/poemMaker/static/js/main.2f9f91ec.chunk.js",
+    "main.js.map": "/poemMaker/static/js/main.2f9f91ec.chunk.js.map",
+    "runtime-main.js": "/poemMaker/static/js/runtime-main.65601da1.js",
+    "runtime-main.js.map": "/poemMaker/static/js/runtime-main.65601da1.js.map",
+    "static/js/2.998940eb.chunk.js": "/poemMaker/static/js/2.998940eb.chunk.js",
+    "static/js/2.998940eb.chunk.js.map": "/poemMaker/static/js/2.998940eb.chunk.js.map",
+    "index.html": "/poemMaker/index.html",
+    "precache-manifest.3a52ea65676babe72255feee71b0b3da.js": "/poemMaker/precache-manifest.3a52ea65676babe72255feee71b0b3da.js",
+    "service-worker.js": "/poemMaker/service-worker.js",
+    "static/css/main.bd0f7cd0.chunk.css.map": "/poemMaker/static/css/main.bd0f7cd0.chunk.css.map",
+    "static/js/2.998940eb.chunk.js.LICENSE.txt": "/poemMaker/static/js/2.998940eb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/poemMaker/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65601da1.js",
+    "static/js/2.998940eb.chunk.js",
+    "static/css/main.bd0f7cd0.chunk.css",
+    "static/js/main.2f9f91ec.chunk.js"
+  ]
+}
